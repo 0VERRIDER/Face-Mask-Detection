@@ -1,0 +1,1 @@
+web: python detect_mask_video.py
