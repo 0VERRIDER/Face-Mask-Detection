@@ -2,5 +2,3 @@ tensorflow
 imutils
 numpy
 argparse
-cv2
-os
